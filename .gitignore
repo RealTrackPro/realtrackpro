@@ -1,8 +1,23 @@
-node_modules/
+# dependencies
+/node_modules
+
+# production
+/.next
+/out
+
+# testing
+/coverage
+
+# Firebase
+.firebase
+.firebaserc
+
+# local env files
 .env
-.next/
+.env.local
+.env.*.local
+
+# IDEs
+.vscode
+.idea
 .DS_Store
-*.log
-.vscode/
-dist/
-build/
