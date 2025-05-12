@@ -13,8 +13,3 @@
     "react-dom": "18.2.0"
   }
 }
-{
-  "scripts": {
-    "build": "[my-framework] build --output public"
-  }
-}
